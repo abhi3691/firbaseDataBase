@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900130841500",
+    "project_id": "firbasedatabase-542e4",
+    "storage_bucket": "firbasedatabase-542e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900130841500:android:fc237f710f45c4415d5e59",
+        "android_client_info": {
+          "package_name": "com.inmakes.firbasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900130841500-q30t0q7qudmm3c8gc3ejg04k5d2cjt80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1rU4BSZGu0zyXfr4wtwIGL0kIWCvadE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900130841500-q30t0q7qudmm3c8gc3ejg04k5d2cjt80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
